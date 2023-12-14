@@ -1,21 +1,2 @@
 # IAM 정책 생성
-{
-    "Version": "2012-10-17",
-    "Statement": [
-        {
-            "Effect": "Allow",
-            "Action": [            
-                "logs:CreateLogGroup",
-                "logs:CreateLogStream",
-                "logs:PutLogEvents"
-            ],
-            "Resource": "arn:aws:logs:*:*:*"
-        },
-        {
-            "Effect": "Allow",
-            "Action": [
-                "ec2:Start*",
-                "ec2:Stop*",
-                "ec2:DescribeInstanceStatus"
-            ],
-            "Resource": "*"
+[iam.json]
