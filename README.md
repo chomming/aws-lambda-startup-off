@@ -10,7 +10,7 @@
 # 함수 생성
 ![image](https://github.com/chomming/aws-lambda-startup-off/assets/81208053/69d2a0cc-e955-4f2f-b027-ad8cc9928a94)
 - 런타임 : python 3.8
-- 아
+- 아키텍처 : X86_64
 <br/>
 [start 코드 편집](https://github.com/chomming/aws-lambda-startup-off/blob/main/start.py)
 <br/>
