@@ -1,3 +1,6 @@
+# AWS Lambda
+- 서버리스 컴퓨팅 서비스
+
 # IAM 정책 생성
 [정책 편집기](https://github.com/chomming/aws-lambda-startup-off/blob/main/iam.json)
 - 1번 statement : CloudWatch Log에 로그를 쌓을 수 있는 권한 허용
