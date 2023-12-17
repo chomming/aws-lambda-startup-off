@@ -13,6 +13,7 @@
 - 아키텍처 : X86_64
 - 실행 역할 : 만든 IAM 역할로 지정
 <br/>
-[start 코드 편집](https://github.com/chomming/aws-lambda-startup-off/blob/main/start.py)
-<br/>
-[stop 코드 편집](https://github.com/chomming/aws-lambda-startup-off/blob/main/stop.py)
+
+# 함수에 사용되는 코드
+- [start 코드 편집](https://github.com/chomming/aws-lambda-startup-off/blob/main/start.py)
+- [stop 코드 편집](https://github.com/chomming/aws-lambda-startup-off/blob/main/stop.py)
